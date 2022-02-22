@@ -1,0 +1,38 @@
+body{
+	/*background-image: url('images/sujimbackground.jpeg');*/
+	/*background-repeat: no-repeat;
+	background-size: cover;*/
+	background-color: lightpink;
+	height: fit-content;
+}
+nav{
+	display: inline-block;
+}
+ul{
+	list-style: none;
+
+}
+li {
+	color: blue;
+	font-family: cursive;
+	font-size: 30px;
+	float: right;
+	display: block;
+	color:darkblue;
+	text-align: center;
+	padding: 14px 18px;
+	text-decoration: unset;
+	
+}
+h1{
+	color: inherit;
+	text-align:center;
+	margin-top: 350px;
+	font-size: 50px;
+}
+head{
+	display: block;
+	padding: 14px 18px;
+	text-decoration: underline;
+}
+
